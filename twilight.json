@@ -1,8 +1,7 @@
 {
     "name": {
-        "version": "1.0.6",
         "ar": "Sallah-theme-1",
-        "en": "Sallah-theme-1"
+        "en": "Salla-theme-1"
     },
     "repository": "https://github.com/Ama19993/sallah-theme-1",
     "author_email": "amal.h.alshehri@gmail.com",
@@ -1131,7 +1130,7 @@
     ],
     "support_url": "https://github.com/Ama19993/theme-raed",
     "description": {
-        "ar": "",
-        "en": ""
+        "ar": null,
+        "en": null
     }
 }
